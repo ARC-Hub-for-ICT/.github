@@ -30,7 +30,7 @@ The ARC Hub for ICT is co-funded by the Government of Ireland and the European U
 ## Project directory
 
 <!-- projects:start -->
-**All 62 projects**, alphabetically. Each link opens its full profile on [our website](https://ict.archub.ie/arc-hub-for-ict-projects/).
+**All 63 projects**, alphabetically. Each link opens its full profile on [our website](https://ict.archub.ie/arc-hub-for-ict-projects/).
 
 - **[6GOrch](https://ict.archub.ie/projects/6gorch/)** — Optimises how 6G networks allocate computing resources at the edge, so demanding services like autonomous vehicles run reliably on constrained hardware.
 - **[ACROSS](https://ict.archub.ie/projects/ai-agents-for-localisation-operations/)** — A multi-agent AI platform that applies each company’s own terminology and style rules to machine translation, cutting costly human post-editing.
@@ -47,6 +47,7 @@ The ARC Hub for ICT is co-funded by the Government of Ireland and the European U
 - **[Climate Parametric Risk Solution (CPRS)](https://ict.archub.ie/projects/climate-parametric-risk-solution-cprs/)** — Parametric climate risk products for agriculture and renewable energy, helping farmers, lenders and operators manage weather-driven revenue volatility.
 - **[Co-Decide](https://ict.archub.ie/projects/co-decide/)** — An AI-enabled platform that prepares people with serious illness for shared decision-making, turning advance care planning from paperwork into conversation.
 - **[ColdChain](https://ict.archub.ie/projects/coldchain/)** — A low-cost, disposable RFID tag that signals remotely if frozen goods rise above zero, enabling continuous cold-chain monitoring across the supply chain.
+- **[Data Built](https://ict.archub.ie/projects/data-built/)** — Construction remains one of the least digitised industries globally, with fragmented, inconsistent and multilingual data creating significant barriers to efficiency, benchmarking and sustainability reporting.
 - **[Dustec](https://ict.archub.ie/projects/dust-monitoring-solution-for-the-construction-sector/)** — An accurate, low-cost dust monitoring system built for small construction firms, making occupational exposure compliance affordable on site.
 - **[EAComm](https://ict.archub.ie/projects/eacomm/)** — High-bandwidth optical neuromorphic AI chips that cut the electricity and water data centres consume to run rapidly growing AI workloads.
 - **[EleVate](https://ict.archub.ie/projects/elevate/)** — An EV fleet battery platform using real-time vehicle data and AI to extend battery life, cut maintenance costs and improve fleet reliability.
