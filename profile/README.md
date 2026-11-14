@@ -75,7 +75,7 @@ The ARC Hub for ICT is co-funded by the Government of Ireland and the European U
 - **[PRIOR](https://ict.archub.ie/projects/prior/)** — Detects combustion drift, fouling and steam trap failure in SME thermal plants, recovering fuel losses of €14,000–€25,000 a year without costly sensors.
 - **[PRISM](https://ict.archub.ie/projects/prism/)** — Relieves congestion on hospital wireless networks by enabling direct device-to-device communication, removing access points as a bottleneck.
 - **[PrivacyGuard](https://ict.archub.ie/projects/privacyguard/)** — Keeps CCTV footage analysable while protecting identities, offering reversible privacy rather than permanent anonymisation or blanket encryption.
-- **[Pro-Advance](https://ict.archub.ie/projects/pro-advance/)** — Takes ProACT, a validated digital platform for managing multimorbidity, from research prototype to a commercial product for community-based care.
+- **[Pro-Advance](https://ict.archub.ie/projects/pro-advance/)** — Multimorbidity-focused digital health platform integrating personalised monitoring, symptom management and coordinated care for older adults.
 - **[PromptMe](https://ict.archub.ie/projects/promptme/)** — A copilot for product definition, helping product managers turn scattered, ambiguous inputs into clear, consistent requirements before development starts.
 - **[ProstheticAI](https://ict.archub.ie/projects/prostheticai/)** — An AI platform recommending personalised prosthesis configurations from patient data, improving socket fit, comfort and rehabilitation outcomes.
 - **[Proxnote](https://ict.archub.ie/projects/proxnote/)** — Verifies authentic student authorship by capturing the writing process itself, rather than analysing finished text for AI-generated content.
